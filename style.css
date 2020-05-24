@@ -1,0 +1,17 @@
+body {margin:0;}
+a {
+  color:black;
+}
+h1 {font-size: 50px;
+text-align:center;
+border-bottom: 1px solid skyblue;
+padding:20px;
+margin:0;}
+ol {border-right: 3px solid skyblue;
+  font-size:25px;
+margin:0;}
+li {margin-bottom: 10px;}
+#grid {
+display:grid;
+grid-template-columns: 170px 1fr;}
+#article {padding-left: 25px;}
